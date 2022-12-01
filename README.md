@@ -54,12 +54,6 @@ I'm currently working on mastering the latest web technologies, including React 
 
 <br/>  
 
-
-
-  
-
-
-
 <br />
 
 ----
