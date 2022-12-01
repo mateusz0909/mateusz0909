@@ -1,3 +1,4 @@
+
 #### <div align="center">Hi, I'm Mateusz, a junior self-taught front-end developer. I'm passionate about creating useful, user-friendly web experiences. I have a passion for learning and recently gained the skills to build modern websites using HTML, CSS, and JavaScript.
 
 I'm currently working on mastering the latest web technologies, including React and Vue. I'm also exploring other technologies such as Node.js nd to expand my skillset.
@@ -8,10 +9,9 @@ I'm currently working on mastering the latest web technologies, including React 
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -39,7 +39,7 @@ I'm currently working on mastering the latest web technologies, including React 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><</tr></table>  
+</td></tr></table>  
 
 <br/>  
 
