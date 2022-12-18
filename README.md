@@ -1,7 +1,7 @@
 
 #### <div align="center">Hi, I'm Mateusz, a junior self-taught front-end developer. I'm passionate about creating useful, user-friendly web experiences. I have a passion for learning and recently gained the skills to build modern websites using HTML, CSS, and JavaScript.
 
-I'm currently working on mastering the latest web technologies, including React and Vue. I'm also exploring other technologies such as Node.js nd to expand my skillset.
+I'm currently working on mastering the latest web technologies, including React and Vue. I'm also exploring other technologies such as Node.js to expand my skillset.
 
 </div>  
   
