@@ -120,7 +120,7 @@ I build with the same stack I ship products on: LLMs, agentic workflows, iOS, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz0909&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mateusz0909" />
+<img src="./metrics.languages.svg" alt="Most Used Languages" />
 
 <br/><br/>
 
