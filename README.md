@@ -65,12 +65,32 @@ I build with the same stack I ship products on: LLMs, agentic workflows, iOS, an
 
 ### 🧰 What I Work With
 
-| Domain | Skills |
-|---|---|
-| 🤖 **AI & Agents** | LLMs (Gemini, Groq, OpenAI), RAG pipelines, agentic workflows, TTS (XTTS v2 / VoxCPM2), multi-step fallback strategies, DoR for autonomous systems |
-| 🌐 **Web** | Next.js, React, TypeScript, Node.js/Express, Supabase, Tailwind CSS, Vercel, Sanity CMS |
-| 📱 **iOS/macOS** | Swift, SwiftUI, WidgetKit, ActivityKit, HealthKit, WatchConnectivity, RevenueCat, SwiftData |
-| 📋 **Product** | Agentic workflow design, agent behavior specs & guardrails, human-in-the-loop flows, LLM evaluation, PoC → MVP → production |
+<table>
+  <thead>
+    <tr>
+      <th width="160">Domain</th>
+      <th>Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <strong>AI &amp; Agents</strong></td>
+      <td>LLMs (Gemini, Groq, OpenAI), RAG pipelines, agentic workflows, TTS (XTTS v2 / VoxCPM2), multi-step fallback strategies, DoR for autonomous systems</td>
+    </tr>
+    <tr>
+      <td>🌐 <strong>Web</strong></td>
+      <td>Next.js, React, TypeScript, Node.js/Express, Supabase, Tailwind CSS, Vercel, Sanity CMS</td>
+    </tr>
+    <tr>
+      <td>📱 <strong>iOS/macOS</strong></td>
+      <td>Swift, SwiftUI, WidgetKit, ActivityKit, HealthKit, WatchConnectivity, RevenueCat, SwiftData</td>
+    </tr>
+    <tr>
+      <td>📋 <strong>Product</strong></td>
+      <td>Agentic workflow design, agent behavior specs &amp; guardrails, human-in-the-loop flows, LLM evaluation, PoC → MVP → production</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
