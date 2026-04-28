@@ -52,6 +52,7 @@ I build with the same stack I ship products on: LLMs, agentic workflows, iOS, an
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
+| **Product Brain+** | Multi-agent Jira copilot for product ops — backlog refinement, RAG over docs, project memory & browser-side capture | FastAPI · React · LangGraph · Chrome Extension | [GitHub](https://github.com/mateusz0909/product-brain-plus) |
 | **WakeTheBook** | Local-first audiobook studio — turns EPUB/PDF into narrated audio with chapter review, voice profiles & resumable rendering | FastAPI · React 19 · XTTS v2 · SQLite | [GitHub](https://github.com/mateusz0909/WakeTheBook) |
 | **Lemmi Studio** | AI marketing kit for app teams — screenshots to App Store visuals, landing pages & copy in minutes | Node.js · React · Supabase · Stripe · Gemini API | [lemmi.studio](https://lemmi.studio) |
 | **Daily Word** | Polish liturgy experience — scraping, AI summarisation, newsletter & cron pipeline | Next.js 16 · Supabase · Gemini · Groq · Resend | [slowo.dopokizycietrwa.pl](https://slowo.dopokizycietrwa.pl/) |
