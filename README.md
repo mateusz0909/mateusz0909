@@ -16,13 +16,13 @@
 
 ### 👋 About Me
 
-For the last **6+ years** I've been the person between *"AI should fix this"* and *"it's in production."* I define requirements, design the workflow, work through technical trade-offs, and push the thing over the line.
+For the last **6+ years** I've worked at the intersection of product strategy and hands-on delivery. I take vague ideas like *"we should use AI here"* and turn them into workflows, product decisions, and shipped software people actually use.
 
-I build with the same stack I ship products on: LLMs, agentic workflows, iOS, and full-stack web. Not because every PM should code, but because the fastest way to understand whether something is worth building is to build it.
+My focus is **AI-first product building**: agent systems, RAG, human-in-the-loop flows, and the trade-offs between capability, safety, UX, and speed. I still build with the same stack I ship on, because the fastest way to validate an AI product is to get it into production and learn from real usage.
 
-- 🔭 Currently working on **AI products, iOS apps, and full-stack tools that solve real problems**
+- 🔭 Currently working on **AI products, agentic workflows, iOS apps, and full-stack tools that solve real problems**
 - 🌱 Currently learning **agentic systems in regulated environments, privacy-first inference & local AI pipelines**
-- 💬 Ask me about **AI product delivery, agentic workflows, LLM requirements, iOS shipping**
+- 💬 Ask me about **AI product delivery, agent design, LLM requirements, RAG workflows, iOS shipping**
 - ⚡ Fun fact: **I shipped Calm Now from idea to App Store in 1 week**
 
 ---
